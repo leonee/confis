@@ -1,6 +1,6 @@
 Configuration
 ======
 
-(1) .bashrc
-(2) .vimrc
-(3) .screenrc
+(1) .bashrc <br \>
+(2) .vimrc <br \>
+(3) .screenrc <br \>

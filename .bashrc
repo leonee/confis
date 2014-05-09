@@ -132,16 +132,3 @@ export TCL_LIBRARY=$TCL_LIBRARY:/home/zjt/ns2/ns-alllinone-2.34/tcl8.4.18/librar
 alias ns2='cd /home/zjt/ns2/ns-allinone-2.34/ns-2.34/'
 alias afsls='cd /home/zjt/ns2/ns-allinone-2.34/ns-2.34/mrmc_afsls_cl'
 
-# qt5
-export QTDIR=/home/weihai/qt/5.1.1/gcc
-export PATH=$QTDIR/bin:$PATH
-export LD_LIBRARY_PATH=$QTDIR/lib:$LD_LIBRARY_PATH
-export QMAKESPC=$QTDIR/mkspecs/linux-g++
-
-alias qtcreator='/home/weihai/qt/Tools/QtCreator/bin/qtcreator'
-alias qtdesigner='/home/weihai/qt/5.1.1/gcc/bin/designer'
-alias qtassistant='/home/weihai/qt/5.1.1/gcc/bin/assistant'
-alias qt='cd /home/weihai/qt_programs/'
-
-#mongodb
-alias mongodb='cd /opt/mongodb2.2.7/bin/' #启动mongodb, ./mongodb
